@@ -24,7 +24,7 @@ export default function App() {
   setLoading(true);
 
   try {
-    const res = await fetch("https://bug-prediction-system-backend.onrender.com", {
+    const res = await fetch("https://bug-prediction-system-backend.onrender.com/predict", {
       method: "POST",
       headers: {
         "Content-Type": "application/json",
