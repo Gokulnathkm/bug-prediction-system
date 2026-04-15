@@ -87,18 +87,14 @@ The system returns:
 }
 
 
-Deployment
-Frontend
+## Deployment
 
-Hosted on AWS S3 Static Website Hosting
+## Live Demo
 
- "http://bug-prediction-frontend-gokul.s3-website.ap-south-1.amazonaws.com"
+- [Frontend (AWS S3)](http://bug-prediction-frontend-gokul.s3-website.ap-south-1.amazonaws.com)
 
-Backend
+- [Backend API (Render)](https://bug-prediction-system-backend.onrender.com)
 
-Hosted on Render
 
-"https://bug-prediction-system-backend.onrender.com"
-
-Note: Backend may take a few seconds to wake up on first request.
+> Note: Backend may take a few seconds to wake up on first request.
 
