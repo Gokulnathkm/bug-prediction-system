@@ -32,8 +32,8 @@ An end-to-end machine learning project that predicts the probability of bugs in 
 - Risk Level
 
 ## Live Demo
-Frontend: YOUR_FRONTEND_URL  
-Backend: YOUR_BACKEND_URL
+Frontend: https://bug-prediction-system-frontend.onrender.com
+Backend: https://dashboard.render.com/web/srv-d7frjvhf9bms73enl6tg
 
 ## Run Locally
 ```bash
