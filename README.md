@@ -86,18 +86,19 @@ The system returns:
   "bug_fix_commits": 0
 }
 
+
 Deployment
 Frontend
 
 Hosted on AWS S3 Static Website Hosting
 
-http://bug-prediction-frontend-gokul.s3-website.ap-south-1.amazonaws.com
+ "http://bug-prediction-frontend-gokul.s3-website.ap-south-1.amazonaws.com"
 
 Backend
 
 Hosted on Render
 
-https://bug-prediction-system-backend.onrender.com
+"https://bug-prediction-system-backend.onrender.com"
 
 Note: Backend may take a few seconds to wake up on first request.
 
