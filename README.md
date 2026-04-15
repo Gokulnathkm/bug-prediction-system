@@ -86,6 +86,7 @@ The system returns:
   "bug_fix_commits": 0
 }
 
+```  
 
 ## Deployment
 
