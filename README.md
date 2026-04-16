@@ -92,7 +92,7 @@ The system returns:
 
 ## Live Demo
 
-- [Frontend (AWS S3)](http://bug-prediction-frontend-gokul.s3-website.ap-south-1.amazonaws.com)
+- [Frontend (Render)](https://bug-prediction-system-frontend.onrender.com)
 
 - [Backend API (Render)](https://bug-prediction-system-backend.onrender.com)
 
