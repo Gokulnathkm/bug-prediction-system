@@ -3,10 +3,6 @@
 An end-to-end machine learning web application that predicts the risk of software bugs based on code change metrics.  
 The system helps developers and testers identify risky commits early and prioritize code reviews and testing.
 
-## Live Demo
-- Frontend (AWS S3): [Add your S3 URL here]
-- Backend API (Render): [Add your Render URL here]
-
 ---
 
 ## Features
@@ -40,7 +36,7 @@ The system helps developers and testers identify risky commits early and priorit
 
 ### Cloud / Deployment
 - AWS S3 (Static Website Hosting)
-- Render (Backend Hosting)
+- Render (frontend Hosting) (Backend Hosting)
 - GitHub
 
 ---
